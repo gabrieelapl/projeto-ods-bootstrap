@@ -9,3 +9,15 @@ body{
     top: 0;
     position: absolute;
 }
+
+#instagram:active{
+    transform: scale(0.95);
+}
+
+#facebook:active{
+    transform: scale(0.95);
+}
+
+#twitter:active{
+    transform: scale(0.95);
+}
