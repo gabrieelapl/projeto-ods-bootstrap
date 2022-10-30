@@ -10,14 +10,140 @@ body{
     position: absolute;
 }
 
-#instagram:active{
+.navbar1{
+    background-color: #FF3A21;
+    height: 40px;
+}
+
+.ods-logo{
+    width: 30px;
+}
+
+.img1{
+    width: 100%;
+}
+
+h3{
+    color: #ffffff; 
+    text-align: center; 
+    font-size: 55px; 
+    font-weight: 600;
+}
+
+.titulo1{
+    font-size: 45px;
+}
+
+.texto1{
+    color: #ffffff; 
+    width: 90%; 
+    font-size: 25px; 
+    text-align: left; 
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.texto2{
+    font-size: 25px;
+    width: 100%;
+}
+
+.texto3{
+    width: 20%;
+    font-size: 20px;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+.img2{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    width: 70%;
+}
+
+.carrossel{
+    width: 80%;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container1{
+    background-color: #FF3A21;
+    height: 650px;
+}
+
+.container2{
+    background-color: #FD6730;
+}
+
+.flex1{
+    width: 30%;
+}
+
+.flex2{
+    width: 50%;
+}
+
+.flex3{
+    width: 25%;
+}
+
+.card{
+    width:300px;
+    background-color: #FD6730;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-imagem{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-text{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.footer1{
+    background-color: #FF3A21;
+}
+
+.container-footer{
+    width: 12%; 
+}
+
+.icons{
+    width: 40px;
+    height: 40px;
+}
+
+#icons:active{
     transform: scale(0.95);
 }
 
-#facebook:active{
-    transform: scale(0.95);
+.linha-footer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
 }
 
-#twitter:active{
-    transform: scale(0.95);
+.onu-logo{
+    width: 120px;
+    height: 100px;
+}
+
+.nomes-footer{
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
 }
