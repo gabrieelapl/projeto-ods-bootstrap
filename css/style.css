@@ -42,12 +42,18 @@ h1{
 }
 
 .texto2{
-    font-size: min(25px, 4vw);
+    font-size: min(24px, 5vw);
     width: 90%;
+    color: #ffffff; 
+    text-align: left; 
+}
+
+.ods-img{
+    width: 85%;
 }
 
 .img1{
-    width: 85%;
+    width: 80%;
 }
 
 .texto3{
@@ -60,7 +66,7 @@ h1{
     display: block; 
     margin-left: auto;
     margin-right: auto; 
-    width: 70%;
+    width: 80%;
 }
 
 .carrossel{
@@ -98,7 +104,7 @@ h1{
     background-color: #ff340f;
 }
 
-.icons{
+#icons{
     width: 40px;
     height: 40px;
 }
