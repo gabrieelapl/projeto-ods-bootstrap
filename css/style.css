@@ -42,7 +42,7 @@ h1{
 }
 
 .texto2{
-    font-size: min(24px, 5vw);
+    font-size: min(25px, 4vw);
     width: 90%;
     color: #ffffff; 
     text-align: left; 
