@@ -100,6 +100,25 @@ h1{
     font-size: min(20px, 5vw);
 }
 
+a:link, a:visited {
+    color: #ffffff;
+}
+
+.subtitulo-noticia{
+    color: #9E9E9E; 
+    width: 90%; 
+    font-size: min(20px, 4vw); 
+    text-align: left; 
+    font-style: italic;
+}
+
+.corpo-noticia{
+    color: #9E9E9E; 
+    width: 90%; 
+    font-size: min(25px, 4vw); 
+    text-align: left; 
+}
+
 .footer1{
     background-color: #ff340f;
 }
@@ -111,6 +130,13 @@ h1{
 
 #icons:active{
     transform: scale(0.95);
+}
+
+.linha-noticias{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
 }
 
 .linha-footer{
