@@ -108,27 +108,18 @@ function meta4(){
 
 
 //blog
-function funcaoNoticia() {
-    for(i= y.length - 2; i >= 0; i--){
-        document.write("<h1 class='pt-4' style='font-size: min(43px, 5vw); text-align: left;'>" + 
-        y[i].getElementsByTagName("titulo_noticia")[0].childNodes[0].nodeValue + "</h1>" + 
-        "<p style='color: #9E9E9E; font-size: min(15px, 3vw);'>" + 
-        y[i].getElementsByTagName("data_noticia")[0].childNodes[0].nodeValue + "</p>" + 
-        "<p style='color: #ffffff; font-size: min(20px, 3vw); width: 90%;'>" + 
-        y[i].getElementsByTagName("corpo_noticia")[0].childNodes[0].nodeValue.substr(0,182) +
-        "... <a href='noticia.html?codigo_noticia=" + i + "'>Leia mais.</a></p>");
-    }
-}
 
-function funcaoNoticia2() {
-    for(i= y.length - 2; i >= 0; i--){
-        document.write("<h1 class='pt-4' style='font-size: min(30px, 5vw); text-align: left;'>" + 
+
+function funcaoNoticia() {
+    for(i= y.length - 1; i >= 0; i--){
+        document.write("<h1 class='display-4 fst-italic' style='width: 100%;'>" +
         y[i].getElementsByTagName("titulo_noticia")[0].childNodes[0].nodeValue + "</h1>" + 
-        "<p style='color: #9E9E9E; font-size: min(15px, 3vw);'>" + 
-        y[i].getElementsByTagName("data_noticia")[0].childNodes[0].nodeValue + "</p>" + 
-        "<p style='color: #ffffff; font-size: min(15px, 3vw);'>" + 
-        y[i].getElementsByTagName("corpo_noticia")[0].childNodes[0].nodeValue.substr(0,182) +
-        "... <a href='noticia.html?codigo_noticia=" + i + "'>Leia mais.</a></p>");
+        "<div class='mb-1 text-muted'>" +
+        y[i].getElementsByTagName("data_noticia")[0].childNodes[0].nodeValue + "</div>" +
+        "<p class='lead my-3'>" + 
+        y[i].getElementsByTagName("corpo_noticia")[0].childNodes[0].nodeValue.substr(0,200) + "...</p>" +
+        "<p class='lead mb-0'>" +
+        "<a href='noticia.html?codigo_noticia=" + i + "' class='text-white fw-bold'>Leia mais.</a></p>");
     }
 }
 
@@ -141,18 +132,18 @@ function tituloNoticia(){
 }    
 
 function subtituloNoticia(){
-    url = new URL(window.location.href)
+    url = new URL(window.location.href);
     parametro = url.searchParams;
     i = parametro.get("codigo_noticia");
 
-    document.write(y[i].getElementsByTagName("subtitulo_noticia")[0].childNodes[0].nodeValue)
+    document.write(y[i].getElementsByTagName("subtitulo_noticia")[0].childNodes[0].nodeValue);
 }
 
 function corpoNoticia(){
-    url = new URL(window.location.href)
+    url = new URL(window.location.href);
     parametro = url.searchParams;
     i = parametro.get("codigo_noticia");
 
-    document.write(y[i].getElementsByTagName("corpo_noticia")[0].childNodes[0].nodeValue)
+    document.write(y[i].getElementsByTagName("corpo_noticia")[0].childNodes[0].nodeValue);
 }   
 
