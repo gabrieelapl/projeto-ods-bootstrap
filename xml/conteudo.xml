@@ -60,32 +60,6 @@
     </meta4>
     <!--Metas para alcançar a Igualdade de Gênero - início-->
 
-    <noticia> 
-        <imagem_noticia>
-            noticia1.png
-        </imagem_noticia>
-
-        <titulo_noticia>
-            Avanço no reconhecimento da igualdade de gênero não diminui violência contra a mulher
-        </titulo_noticia>
-
-        <data_noticia>
-            Nov 28, 2022
-        </data_noticia>
-
-        <subtitulo_noticia>
-            Nas palavras do presidente nacional do Instituto dos Advogados Brasileiros (IAB), Sydney Sanches, “o avanço social no reconhecimento da igualdade de gênero não tem sido suficiente para aplacar a contínua violência contra as mulheres”.
-        </subtitulo_noticia>
-
-        <corpo_noticia>
-            Na data escolhida como Dia Internacional Pela Eliminação da Violência Contra a Mulher, 25 de novembro, não há o que se comemorar. Nas palavras do presidente nacional do Instituto dos Advogados Brasileiros (IAB), Sydney Sanches, “o avanço social no reconhecimento da igualdade de gênero não tem sido suficiente para aplacar a contínua violência contra as mulheres”. Portanto, ressalta ele, “a incansável denúncia dos atos de violência é estratégica para inibir a intolerância e o abuso contra as mulheres”.
-
-            Desde 1999, a Organização das Nações Unidas (ONU) reconhece o dia 25 de novembro como o Dia Internacional Pela Eliminação da Violência Contra a Mulher. A data foi escolhida em homenagem às irmãs Patria, María Teresa e Minerva Maribal, que foram violentamente torturadas e assassinadas nesta mesma data, em 1960, a mando do ditador da República Dominicana Rafael Trujillo. As irmãs dominicanas eram conhecidas como "Las Mariposas" e lutavam por melhores condições de vida em seu país.
-            
-            De acordo com dados do Ministério da Saúde, quase uma em cada três mulheres com 15 anos ou mais, em todo o mundo, foi submetida à violência física ou sexual. Além disso, outro dado global aponta que cerca de 137 mulheres são mortas por seu parceiro íntimo ou por um membro da família todos os dias. São 125 países que possuem leis específicas de proteção à mulher, sendo que a legislação brasileira, com a Lei Maria da Penha, é considerada uma das três mais avançadas do mundo. Apesar do avanço nas leis, o Brasil é o 7º país, em uma lista de 84, com o maior número de homicídios de mulheres.
-        </corpo_noticia>
-    </noticia>
-
     <noticia>
         <capa_noticia>
             noticia2.png
@@ -111,6 +85,32 @@
             Segundo a Professora Eunice Pereira dos Santos Nunes, uma das coordenadoras, “com estudantes, foram realizadas atividades desplugadas, com alunas e alunos da educação básica, buscando desenvolver conceitos da computação sem utilização de um computador”.
 
             Na área das tecnologias sociais houve movimentos nas mídias sociais, site e canais comunicativos sobre as áreas STEAM, além de desenvolvimento de pesquisas consumando publicações de artigos. O projeto conta com a participação de graduandas bolsistas na equipe que vivenciam as atividades, contudo o contato com a pesquisa acadêmica. Conforme a professora Eunice, atualmente na equipe há 5 docentes da UFMT, 7 graduandas e 7 pós-graduandas.
+        </corpo_noticia>
+    </noticia>
+
+    <noticia> 
+        <imagem_noticia>
+            noticia1.png
+        </imagem_noticia>
+
+        <titulo_noticia>
+            Avanço no reconhecimento da igualdade de gênero não diminui violência contra a mulher
+        </titulo_noticia>
+
+        <data_noticia>
+            Nov 28, 2022
+        </data_noticia>
+
+        <subtitulo_noticia>
+            Nas palavras do presidente nacional do Instituto dos Advogados Brasileiros (IAB), Sydney Sanches, “o avanço social no reconhecimento da igualdade de gênero não tem sido suficiente para aplacar a contínua violência contra as mulheres”.
+        </subtitulo_noticia>
+
+        <corpo_noticia>
+            Na data escolhida como Dia Internacional Pela Eliminação da Violência Contra a Mulher, 25 de novembro, não há o que se comemorar. Nas palavras do presidente nacional do Instituto dos Advogados Brasileiros (IAB), Sydney Sanches, “o avanço social no reconhecimento da igualdade de gênero não tem sido suficiente para aplacar a contínua violência contra as mulheres”. Portanto, ressalta ele, “a incansável denúncia dos atos de violência é estratégica para inibir a intolerância e o abuso contra as mulheres”.
+
+            Desde 1999, a Organização das Nações Unidas (ONU) reconhece o dia 25 de novembro como o Dia Internacional Pela Eliminação da Violência Contra a Mulher. A data foi escolhida em homenagem às irmãs Patria, María Teresa e Minerva Maribal, que foram violentamente torturadas e assassinadas nesta mesma data, em 1960, a mando do ditador da República Dominicana Rafael Trujillo. As irmãs dominicanas eram conhecidas como "Las Mariposas" e lutavam por melhores condições de vida em seu país.
+            
+            De acordo com dados do Ministério da Saúde, quase uma em cada três mulheres com 15 anos ou mais, em todo o mundo, foi submetida à violência física ou sexual. Além disso, outro dado global aponta que cerca de 137 mulheres são mortas por seu parceiro íntimo ou por um membro da família todos os dias. São 125 países que possuem leis específicas de proteção à mulher, sendo que a legislação brasileira, com a Lei Maria da Penha, é considerada uma das três mais avançadas do mundo. Apesar do avanço nas leis, o Brasil é o 7º país, em uma lista de 84, com o maior número de homicídios de mulheres.
         </corpo_noticia>
     </noticia>
 

@@ -109,9 +109,8 @@ function meta4(){
 
 //blog
 
-
-function funcaoNoticia() {
-    for(i= y.length - 1; i >= 0; i--){
+function noticiaPrincipal() {
+    for(i= y.length - 3; i >= 0; i--){
         document.write("<h1 class='display-4 fst-italic' style='width: 100%;'>" +
         y[i].getElementsByTagName("titulo_noticia")[0].childNodes[0].nodeValue + "</h1>" + 
         "<div class='mb-1 text-muted'>" +
@@ -123,12 +122,31 @@ function funcaoNoticia() {
     }
 }
 
+function noticias() {
+    for(i= y.length - 1; i >= 1; i--){
+        document.write("<div class='col-md-6'>" + 
+        "<div class='row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative'>" +
+        "<div class='col p-4 d-flex flex-column position-static>" +
+        "<strong class='d-inline-block mb-2' style='color: #ff340f;'>ODS 5</strong>" +
+        "<h3 class='mb-0' style='color: #ffffff'>" +
+        y[i].getElementsByTagName("titulo_noticia")[0].childNodes[0].nodeValue + "</h3>" +
+        "<div class='mb-1 text-muted'>" +
+        y[i].getElementsByTagName("data_noticia")[0].childNodes[0].nodeValue + "</div>" +
+        "<p class='mb-auto' style='color: #ffffff'>" +
+        y[i].getElementsByTagName("corpo_noticia")[0].childNodes[0].nodeValue.substr(0,200) + "...</p>" +
+        "<a href='noticia.html?codigo_noticia=" + i + "' class='stretched-link'>Leia mais.</a>" + 
+        "</div>" +
+        "</div>" +
+        "</div>");
+    }
+}
+
 function tituloNoticia(){
-    url = new URL(window.location.href)
+    url = new URL(window.location.href);
     parametro = url.searchParams;
     i = parametro.get("codigo_noticia");
 
-    document.write(y[i].getElementsByTagName("titulo_noticia")[0].childNodes[0].nodeValue)
+    document.write(y[i].getElementsByTagName("titulo_noticia")[0].childNodes[0].nodeValue);
 }    
 
 function subtituloNoticia(){
