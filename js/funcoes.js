@@ -108,10 +108,9 @@ function meta4(){
 
 
 //blog
-
 function noticiaPrincipal() {
     for(i= y.length - 3; i >= 0; i--){
-        document.write("<h1 class='display-4 fst-italic' style='width: 100%;'>" +
+        document.write("<h1 class='display-4 fst-italic fw-semibold' style='width: 100%;'>" +
         y[i].getElementsByTagName("titulo_noticia")[0].childNodes[0].nodeValue + "</h1>" + 
         "<div class='mb-1 text-muted'>" +
         y[i].getElementsByTagName("data_noticia")[0].childNodes[0].nodeValue + "</div>" +

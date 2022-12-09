@@ -61,10 +61,6 @@
     <!--Metas para alcançar a Igualdade de Gênero - início-->
 
     <noticia>
-        <capa_noticia>
-            noticia2.png
-        </capa_noticia>
-
         <titulo_noticia>
             Projeto trata da igualdade de gênero na área da tecnologia
         </titulo_noticia>
@@ -90,7 +86,7 @@
 
     <noticia> 
         <imagem_noticia>
-            noticia1.png
+            noticia2.png
         </imagem_noticia>
 
         <titulo_noticia>
@@ -120,25 +116,27 @@
         </capa_noticia>
 
         <titulo_noticia>
-            Instituto Neonergia promove iniciativas que valorizam as mulheres e seus valores
+            Igualdade de gênero na política brasileira é "vergonhosa", diz Nilda Gondim
         </titulo_noticia>
 
         <data_noticia>
-            Nov 11, 2022
+            Mai 31, 2022
         </data_noticia>
 
         <subtitulo_noticia>
-            Atualmente o projeto é coordenado pelo Professor Cristiano Maciel. O Meninas Digitais já atendeu mais de 1.000 pessoas de 13 municípios do estado.
+            A senadora Nilda Gondim elogiou ainda a iniciativa do Senado em promover o seminário Mais Mulheres na Política, ocorrido na segunda-feira (30/5)
         </subtitulo_noticia>
 
         <corpo_noticia>
-            O grupo Meninas Digitais Mato Grosso, idealizado pela Professora Karen Ribeiro do Instituto de Computação da UFMT desde 2015, tem como intuito a disseminação de pautas relacionadas à equidade de gêneros em carreiras e cursos da área da Computação e suas tecnologias, tal como STEAM (Ciência, Tecnologia, Engenharias, Artes e Matemática).
+            A senadora Nilda Gondim (MDB-PB) afirmou que a posição do Brasil em um ranking de igualdade de gênero na política é "vergonhosa" e destacou ser vital a adoção de medidas para incentivar a participação das mulheres na política "e nos cenários de poder em nosso país".
 
-            A proposta do projeto acontece por meio dos incentivos e fomento da participação feminina, com execuções motivacionais e informativas com professores e estudantes de Ensino Fundamental, Médio e Superior no estado. Atualmente o projeto é coordenado pelo Professor Cristiano Maciel. O Meninas Digitais já atendeu mais de 1.000 pessoas de 13 municípios do estado.
+            Em nota enviada nesta terça (31/5) à imprensa, a senadora elogiou a iniciativa do Senado em promover o seminário Mais Mulheres na Política, realizado ontem (30). O encontro foi encabeçado pela Bancada Feminina e pela Procuradoria da Mulher do Senado, e apoiado pelo Tribunal Superior Eleitoral (TSE) e da Secretaria da Mulher da Câmara dos Deputados.
 
-            Segundo a Professora Eunice Pereira dos Santos Nunes, uma das coordenadoras, “com estudantes, foram realizadas atividades desplugadas, com alunas e alunos da educação básica, buscando desenvolver conceitos da computação sem utilização de um computador”.
+            “O Brasil figurou na posição 108 em um ranking de 156 países, no que se refere à igualdade de gênero na política. Uma posição vergonhosa que nos mostra o quanto ainda precisamos avançar como sociedade e o quanto é vital a adoção de medidas de incentivo à participação feminina na política e nos cenários de poder em nosso país”, afirmou Nilda Gondim.
 
-            Na área das tecnologias sociais houve movimentos nas mídias sociais, site e canais comunicativos sobre as áreas STEAM, além de desenvolvimento de pesquisas consumando publicações de artigos. O projeto conta com a participação de graduandas bolsistas na equipe que vivenciam as atividades, contudo o contato com a pesquisa acadêmica. Conforme a professora Eunice, atualmente na equipe há 5 docentes da UFMT, 7 graduandas e 7 pós-graduandas.
+            A senadora disse ainda que, apesar de as mulheres serem a maioria da população brasileira, as candidaturas femininas nas últimas eleições foram apenas 33,54% do total, e que apenas 12,2% das eleições a prefeituras foram vencidas por candidatas.
+
+            “Um percentual pífio. No parlamento, ocupamos apenas 15% das cadeiras da Câmara dos Deputados e 13% das cadeiras do Senado. Nitidamente, há uma carência de representatividade feminina no Congresso e isso fere a nossa democracia. Fortalecer a participação feminina na política é requisito básico para robustecer o nosso sistema democrático e para tornar mais efetiva a representação popular no parlamento”, defendeu a parlamentar.
         </corpo_noticia>
     </noticia>
         
